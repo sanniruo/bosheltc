@@ -38,7 +38,8 @@ Helsinki Presenter: _Sini Kerminen, PhD_<br/>
 e-mail: sini.kerminen@helsinki.fi <br/>
 Group: _Matti Pirinen's Group_<br/>
 Title: _Insights into fine-mapping causal variants of complex traits from diverse populations_<br/>
-Slide deck can be found in `2020_09_slideDeck` 
+Slide deck can be found in `2020_10_slideDeck`<br/>
+_Link referred to in recording will be made available upon publication._
 
 Recording for this meeting can be found [here](https://www.dropbox.com/s/b1adrddluy32lwc/zoom_1.mp4?dl=0)
 
