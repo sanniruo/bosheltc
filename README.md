@@ -1,5 +1,5 @@
 # Boston-Helsinki Tele Conference for Human Genetics 
-## Participants from the Broad Institute of MIT and Harvard and Institute for Molecular Medicine of Finland, University of Helsinki
+#### Participants are from the Broad Institute of MIT and Harvard and Institute for Molecular Medicine of Finland, University of Helsinki
 
 ## This repo contains the schedule, videos, and slide decks that were used in each month's meeting.
 
