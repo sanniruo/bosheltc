@@ -34,7 +34,7 @@ Venue: Zoom
 #### Theme: Statistical Methods
 #### Date: October 21st, 2020
 
-Boston Presenter: _Masa Kanai_
+Boston Presenter: _Masa Kanai_<br/>
 e-mail: mkanai@broadinstitute.org <br/>
 Group: _Finucane and Daly Groups_ <br/>
 Title: _Insights into fine-mapping causal variants of complex traits from diverse populations_<br/>
