@@ -24,11 +24,11 @@ _Meetings will be conducted via zoom and links will be sent via a calendar invit
 | 05/12/2021    | Psychosis and Neuro | Henrike Heyne               | TBD | Kumar | TBA |
 
 
-### October 2020 Call <br/>
-#### Theme: Statistical Methods <br/>
-#### Date: October 21st, 2020 <br/>
+### October 2020 Call<br/>
+#### Theme: Statistical Methods<br/>
+#### Date: October 21st, 2020
 
-Boston Presenter: _Masa Kanai_<br/>  
+Boston Presenter: _Masa Kanai_
 e-mail: mkanai@broadinstitute.org <br/>
 Group: _Finucane and Daly Groups_ <br/>
 Title: _Insights into fine-mapping causal variants of complex traits from diverse populations_<br/>
@@ -43,16 +43,15 @@ _Link referred to in recording will be made available upon publication._
 
 Recording for this meeting can be found [here](https://www.dropbox.com/s/b1adrddluy32lwc/zoom_1.mp4?dl=0)
 
-### September 2020 Call <br/>
-#### Theme: Polygenic Risk Score and Disease Prediction <br/>
-#### Date: September 30th, 2020 <br/>
+### September 2020 Call<br/>
+#### Theme: Polygenic Risk Score and Disease Prediction<br/>
+#### Date: September 30th, 2020
 
-Boston Presenter: _Pietro Della Briotta Parolo, PhD_<br/>  
+Boston Presenter: _Pietro Della Briotta Parolo, PhD_  
 e-mail: pietro.dellabriottaparolo@helsinki.fi <br/>
 Group: _FinnGen Analysis Team_ <br/>
 Title: _PRS in FinnGen_<br/>
 Slide deck can be found in `2020_09_slideDeck` or [here](https://www.dropbox.com/s/czgr0dh0c09p7l9/Finngen_2020_09_PRS.pptx?dl=0)
-
 
 Helsinki Presenter: _Jake Lin, PhD_<br/>
 e-mail: jake.lin@helsinki.fi <br/>
