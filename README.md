@@ -12,8 +12,8 @@ _Meetings will be conducted via zoom and links will be sent via a calendar invit
 
 **General Schedule**<br/>
 Day: _Third Wednesdays of the month_<br/>
-Time: 9:00 AM EST / 4:00 pm (HEL)<br/>
-Venue: Zoom
+Time: _9:00 AM EST / 4:00 pm (HEL)_<br/>
+Venue: _Zoom (link available upon request)_
 
 
 ### 2020
