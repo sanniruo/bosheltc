@@ -1,4 +1,5 @@
-# Boston-Helsinki Tele Conference for Human Genetics (Broad Institute and University of Helsinki)
+# Boston-Helsinki Tele Conference for Human Genetics 
+## Participants from the Broad Institute of MIT and Harvard and Institute for Molecular Medicine of Finland, University of Helsinki
 
 ## This repo contains the schedule, videos, and slide decks that were used in each month's meeting.
 
@@ -8,6 +9,11 @@
 
 
 _Meetings will be conducted via zoom and links will be sent via a calendar invite. If you are interested, please send an email to the organizers so that you can be included on the listserv and the calendar invite. If you have further questions or interest in presenting your work, please feel free to contact the organizers._
+
+**General Schedule**<br/>
+Day: _Third Wednesdays of the month_<br/>
+Time: 9:00 AM EST / 4:00 pm (HEL)<br/>
+Venue: Zoom
 
 
 ### 2020
@@ -24,8 +30,8 @@ _Meetings will be conducted via zoom and links will be sent via a calendar invit
 | 05/12/2021    | Psychosis and Neuro | Henrike Heyne               | TBD | Kumar | TBA |
 
 
-### October 2020 Call<br/>
-#### Theme: Statistical Methods<br/>
+### October 2020 Call
+#### Theme: Statistical Methods
 #### Date: October 21st, 2020
 
 Boston Presenter: _Masa Kanai_
@@ -43,8 +49,8 @@ _Link referred to in recording will be made available upon publication._
 
 Recording for this meeting can be found [here](https://www.dropbox.com/s/b1adrddluy32lwc/zoom_1.mp4?dl=0)
 
-### September 2020 Call<br/>
-#### Theme: Polygenic Risk Score and Disease Prediction<br/>
+### September 2020 Call
+#### Theme: Polygenic Risk Score and Disease Prediction
 #### Date: September 30th, 2020
 
 Boston Presenter: _Pietro Della Briotta Parolo, PhD_  
