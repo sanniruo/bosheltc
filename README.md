@@ -21,13 +21,29 @@ Venue: _Zoom (link available upon request)_
 | ------------- |:-------------:      | :-----:                     | :--------------------:  |  :---:  | :-----:   |
 | 09/30/2020    | PRS and prediction  | Pietro Della Briotta Parolo | Jake Lin                | Kumar | [link](https://www.dropbox.com/s/b1adrddluy32lwc/zoom_1.mp4?dl=0) |
 | 10/21/2020    | Statistical Methods | Masa Kanai                  | Sini Kerminen | Sanni | [link](https://www.dropbox.com/sh/88qilkivmhi488g/AADzeKk-WSfnYv7IIsSVD5GNa?dl=0) |
-| 11/25/2020    | Pop Gen             | Alicia Martin               | Mattia Cordioli | Sanni | TBA |
+| 11/25/2020    | Pop Gen             |  NA               | Mattia Cordioli | NA | [link](https://www.dropbox.com/sh/fu9jrdwuxlibwdd/AABZk1gaxUTKwClFkj5Pw7Txa?dl=0) |
 | 12/16/2020    | FinnGen Updates     | Juha Karjalainen            | TBD | Kumar | TBA |
 | 01/20/2021    | NeuroDev            | Nasa Sinnott-Armstrong      | TBD | Sanni | TBA | 
 | 02/17/2021    | Pharmacogenetics    | Kumar Veerapen              | Ari Ahola-Olli |  Kumar | TBA |
 | 03/17/2021    | CV and metabolic    | Amy Elliott                 | Sanni Ruotsalainen |  Sanni | TBA |
 | 04/21/2021    | FinnGen Updates     | Mutaamba Maasha             | TBD | Kumar | TBA |
 | 05/12/2021    | Psychosis and Neuro | Henrike Heyne               | TBD | Kumar | TBA |
+
+
+### November 2020 Call
+#### Theme: Population Genetics
+#### Date: November 25th, 2020
+
+Only Helsinki presenter for this TC.
+
+
+Helsinki Presenter: _Mattia Cordioli_<br/>
+e-mail: [mattia.cordioli@helsinki.fi](mailto:mattia.cordioli@helsinki.fi) <br/>
+Group: _Andrea Ganna's Group_<br/>
+Title: _Genetic and environmental determinants of drug adherence and drug purchasing behaviour_<br/>
+Slide deck can be found in `2020_11_slideDeck`<br/>
+
+Recording for this meeting can be found [here](https://www.dropbox.com/sh/fu9jrdwuxlibwdd/AABZk1gaxUTKwClFkj5Pw7Txa?dl=0)
 
 
 ### October 2020 Call
