@@ -23,7 +23,7 @@ Venue: _Zoom (link available upon request)_
 | 10/21/2020    | Statistical Methods | Masa Kanai                  | Sini Kerminen | Sanni | [link](https://www.dropbox.com/sh/88qilkivmhi488g/AADzeKk-WSfnYv7IIsSVD5GNa?dl=0) |
 | 11/25/2020    | Pop Gen             |  NA               | Mattia Cordioli | NA | [link](https://www.dropbox.com/sh/fu9jrdwuxlibwdd/AABZk1gaxUTKwClFkj5Pw7Txa?dl=0) |
 | 12/16/2020    | FinnGen Updates     | Juha Karjalainen            | Arto Lehisto | Kumar | [link](https://www.dropbox.com/sh/4j0pjjczcfgy3co/AABq5yvOczTZaKww1iQUDZ2Ma?dl=0) |
-| 01/20/2021    | NeuroDev            | Nasa Sinnott-Armstrong      | TBD | Sanni | TBA | 
+| 01/20/2021    | NeuroDev            | Nasa Sinnott-Armstrong      | Anders Kämpe | Sanni | TBA | 
 | 02/17/2021    | Pharmacogenetics    | Kumar Veerapen              | Ari Ahola-Olli |  Kumar | TBA |
 | 03/17/2021    | CV and metabolic    | Amy Elliott                 | Sanni Ruotsalainen |  Sanni | TBA |
 | 04/21/2021    | FinnGen Updates     | Mutaamba Maasha             | TBD | Kumar | TBA |
